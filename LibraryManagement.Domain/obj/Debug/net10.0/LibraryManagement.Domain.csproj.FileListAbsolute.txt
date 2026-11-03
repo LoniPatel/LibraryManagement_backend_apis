@@ -1,0 +1,11 @@
+C:\Loni\dotnet\LibraryManagement\LibraryManagement.Domain\bin\Debug\net10.0\LibraryManagement.Domain.deps.json
+C:\Loni\dotnet\LibraryManagement\LibraryManagement.Domain\bin\Debug\net10.0\LibraryManagement.Domain.dll
+C:\Loni\dotnet\LibraryManagement\LibraryManagement.Domain\bin\Debug\net10.0\LibraryManagement.Domain.pdb
+C:\Loni\dotnet\LibraryManagement\LibraryManagement.Domain\obj\Debug\net10.0\LibraryManagement.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Loni\dotnet\LibraryManagement\LibraryManagement.Domain\obj\Debug\net10.0\LibraryManagement.Domain.AssemblyInfoInputs.cache
+C:\Loni\dotnet\LibraryManagement\LibraryManagement.Domain\obj\Debug\net10.0\LibraryManagement.Domain.AssemblyInfo.cs
+C:\Loni\dotnet\LibraryManagement\LibraryManagement.Domain\obj\Debug\net10.0\LibraryManagement.Domain.csproj.CoreCompileInputs.cache
+C:\Loni\dotnet\LibraryManagement\LibraryManagement.Domain\obj\Debug\net10.0\LibraryManagement.Domain.dll
+C:\Loni\dotnet\LibraryManagement\LibraryManagement.Domain\obj\Debug\net10.0\refint\LibraryManagement.Domain.dll
+C:\Loni\dotnet\LibraryManagement\LibraryManagement.Domain\obj\Debug\net10.0\LibraryManagement.Domain.pdb
+C:\Loni\dotnet\LibraryManagement\LibraryManagement.Domain\obj\Debug\net10.0\ref\LibraryManagement.Domain.dll
