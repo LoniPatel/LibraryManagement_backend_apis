@@ -9,3 +9,4 @@ C:\Loni\dotnet\LibraryManagement\LibraryManagement.Domain\obj\Debug\net8.0\Libra
 C:\Loni\dotnet\LibraryManagement\LibraryManagement.Domain\obj\Debug\net8.0\refint\LibraryManagement.Domain.dll
 C:\Loni\dotnet\LibraryManagement\LibraryManagement.Domain\obj\Debug\net8.0\LibraryManagement.Domain.pdb
 C:\Loni\dotnet\LibraryManagement\LibraryManagement.Domain\obj\Debug\net8.0\ref\LibraryManagement.Domain.dll
+C:\Loni\dotnet\LibraryManagement\LibraryManagement.Domain\obj\Debug\net8.0\LibraryManagement.Domain.sourcelink.json

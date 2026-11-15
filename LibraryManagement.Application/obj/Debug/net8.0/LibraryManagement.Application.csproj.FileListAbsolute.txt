@@ -13,3 +13,4 @@ C:\Loni\dotnet\LibraryManagement\LibraryManagement.Application\obj\Debug\net8.0\
 C:\Loni\dotnet\LibraryManagement\LibraryManagement.Application\obj\Debug\net8.0\refint\LibraryManagement.Application.dll
 C:\Loni\dotnet\LibraryManagement\LibraryManagement.Application\obj\Debug\net8.0\LibraryManagement.Application.pdb
 C:\Loni\dotnet\LibraryManagement\LibraryManagement.Application\obj\Debug\net8.0\ref\LibraryManagement.Application.dll
+C:\Loni\dotnet\LibraryManagement\LibraryManagement.Application\obj\Debug\net8.0\LibraryManagement.Application.sourcelink.json

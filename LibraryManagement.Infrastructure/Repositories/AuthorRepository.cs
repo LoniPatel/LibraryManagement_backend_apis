@@ -21,7 +21,10 @@ public class AuthorRepository : IAuthorRepository
 
     public async Task<Author?> GetByIdAsync(int id)
     {
-        return await _context.Authors.FirstOrDefaultAsync(a => a.Id == id && !a.IsDeleted);
+        //return await _context.Authors.FirstOrDefaultAsync(a => a.Id == id && !a.IsDeleted);
+        return await _context.Authors
+        .Include(a => a.Books)
+        .FirstOrDefaultAsync(a => a.Id == id && !a.IsDeleted);
     }
 
     // public async Task<bool> IsEmailExistAsync(String email)

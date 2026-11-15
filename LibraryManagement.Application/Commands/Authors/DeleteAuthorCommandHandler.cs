@@ -1,3 +1,4 @@
+
 using LibraryManagement.Application.Interfaces;
 using MediatR;
 
@@ -25,6 +26,15 @@ public class DeleteAuthorCommandHandler
             return false;
         }
 
+        // Check whether author has active books
+        if (author.Books.Any(book => !book.IsDeleted))
+        {
+            throw new InvalidOperationException(
+                "This author has books assigned. Please delete the books before deleting this author."
+            );
+        }
+
+        // Soft Delete Author
         author.IsDeleted = true;
         author.DeletedAt = DateTime.Now;
         author.DeletedBy = command.UserId;

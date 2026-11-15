@@ -17,3 +17,4 @@ C:\Loni\dotnet\LibraryManagement\LibraryManagement.Infrastructure\obj\Debug\net8
 C:\Loni\dotnet\LibraryManagement\LibraryManagement.Infrastructure\obj\Debug\net8.0\LibraryManagement.Infrastructure.pdb
 C:\Loni\dotnet\LibraryManagement\LibraryManagement.Infrastructure\obj\Debug\net8.0\LibraryManagement.Infrastructure.genruntimeconfig.cache
 C:\Loni\dotnet\LibraryManagement\LibraryManagement.Infrastructure\obj\Debug\net8.0\ref\LibraryManagement.Infrastructure.dll
+C:\Loni\dotnet\LibraryManagement\LibraryManagement.Infrastructure\obj\Debug\net8.0\LibraryManagement.Infrastructure.sourcelink.json
